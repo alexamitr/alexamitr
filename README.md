@@ -16,10 +16,10 @@ Alongside AI and data, I bring strong hands-on experience in web and product dev
  • Human-Centred AI & Intelligent Interfaces
  
 ### 💻 Technical Stack
- AI/Data: Python, SQL, Pandas, NumPy, Scikit-learn, PySpark, Apache Spark, TensorFlow, PyTorch, XGBoost
- Web: JavaScript, React, Next.js, HTML/CSS, WordPress, REST APIs
- Product & UX/UI: Figma, responsive design, prototyping, design systems, accessibility
- Analytics: Power BI, GA4, data visualisation
+ AI/Data: Python, SQL, Pandas, NumPy, Scikit-learn, PySpark, Apache Spark, TensorFlow, PyTorch, XGBoost<br>
+ Web: JavaScript, React, Next.js, HTML/CSS, WordPress, REST APIs<Br>
+ Product & UX/UI: Figma, responsive design, prototyping, design systems, accessibility<br>
+ Analytics: Power BI, GA4, data visualisation<br>
  
 I’m particularly interested in opportunities where AI, engineering, data and product thinking intersect — from ML/AI engineering and data-driven research to intelligent digital products and user-facing technology.
 
