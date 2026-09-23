@@ -8,7 +8,7 @@ My AI/ML work includes physiological time-series forecasting and monitoring, ano
  
 Alongside AI and data, I bring strong hands-on experience in web and product development, including React/Next.js, JavaScript, WordPress, REST APIs, responsive interfaces, dashboards, analytics integrations and UX/UI design.<br>
  
-🔍 Focus & Research Interests<br>
+### 🔍 Focus & Research Interests<br>
  • Machine Learning & Deep Learning<br>
  • Time-Series Forecasting & Anomaly Detection<br>
  • AI in Healthcare, Biomedical & Space Research<br>
