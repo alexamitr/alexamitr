@@ -1,4 +1,4 @@
-### 💡 AI/ML • Data • Web & Product Development • UX/UI
+# 💡 AI/ML • Data • Web & Product Development • UX/UI
  
 I’m a multidisciplinary technologist with an MSc in Artificial Intelligence with Distinction from the University of East London and a background in Computer Engineering, combining AI/ML, data, web development and product design.
  
@@ -15,7 +15,7 @@ Alongside AI and data, I bring strong hands-on experience in web and product dev
  • Big Data & Predictive Analytics
  • Human-Centred AI & Intelligent Interfaces
  
-# 💻 Technical Stack
+### 💻 Technical Stack
  AI/Data: Python, SQL, Pandas, NumPy, Scikit-learn, PySpark, Apache Spark, TensorFlow, PyTorch, XGBoost
  Web: JavaScript, React, Next.js, HTML/CSS, WordPress, REST APIs
  Product & UX/UI: Figma, responsive design, prototyping, design systems, accessibility
