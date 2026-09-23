@@ -1,19 +1,19 @@
 # 💡 AI/ML • Data • Web & Product Development • UX/UI
  
-I’m a multidisciplinary technologist with an MSc in Artificial Intelligence with Distinction from the University of East London and a background in Computer Engineering, combining AI/ML, data, web development and product design.
+I’m a multidisciplinary technologist with an MSc in Artificial Intelligence with Distinction from the University of East London and a background in Computer Engineering, combining AI/ML, data, web development and product design.<br>
  
-My experience spans machine learning and predictive modelling, large-scale data analysis, frontend and web development, UX/UI, analytics and intelligent systems. I enjoy working at the intersection of engineering, research and product, turning complex technical requirements and data into practical, intuitive solutions.
+My experience spans machine learning and predictive modelling, large-scale data analysis, frontend and web development, UX/UI, analytics and intelligent systems. I enjoy working at the intersection of engineering, research and product, turning complex technical requirements and data into practical, intuitive solutions.<br>
  
-My AI/ML work includes physiological time-series forecasting and monitoring, anomaly detection, classification, feature engineering and large-scale data processing, with research interests particularly in healthcare, biomedical applications, space/astronaut health and marine/environmental data.
+My AI/ML work includes physiological time-series forecasting and monitoring, anomaly detection, classification, feature engineering and large-scale data processing, with research interests particularly in healthcare, biomedical applications, space/astronaut health and marine/environmental data.<br>
  
-Alongside AI and data, I bring strong hands-on experience in web and product development, including React/Next.js, JavaScript, WordPress, REST APIs, responsive interfaces, dashboards, analytics integrations and UX/UI design.
+Alongside AI and data, I bring strong hands-on experience in web and product development, including React/Next.js, JavaScript, WordPress, REST APIs, responsive interfaces, dashboards, analytics integrations and UX/UI design.<br>
  
-🔍 Focus & Research Interests
- • Machine Learning & Deep Learning
- • Time-Series Forecasting & Anomaly Detection
- • AI in Healthcare, Biomedical & Space Research
- • Big Data & Predictive Analytics
- • Human-Centred AI & Intelligent Interfaces
+🔍 Focus & Research Interests<br>
+ • Machine Learning & Deep Learning<br>
+ • Time-Series Forecasting & Anomaly Detection<br>
+ • AI in Healthcare, Biomedical & Space Research<br>
+ • Big Data & Predictive Analytics<br>
+ • Human-Centred AI & Intelligent Interfaces<br>
  
 ### 💻 Technical Stack
  AI/Data: Python, SQL, Pandas, NumPy, Scikit-learn, PySpark, Apache Spark, TensorFlow, PyTorch, XGBoost<br>
@@ -23,7 +23,7 @@ Alongside AI and data, I bring strong hands-on experience in web and product dev
  
 I’m particularly interested in opportunities where AI, engineering, data and product thinking intersect — from ML/AI engineering and data-driven research to intelligent digital products and user-facing technology.
 
----
+---<br>
 
 🎯 Passionate about building AI-driven solutions that advance healthcare, amplify human potential, and create real-world impact.  
 🎵 Also a musician & geek at heart — always exploring the harmony between logic and creativity.
