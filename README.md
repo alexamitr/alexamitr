@@ -1,29 +1,27 @@
-### 💡 AI & ML Enthusiast | 🎓 MSc Artificial Intelligence | 🎨 Bridging Tech, Analytics & Design
-
-Hi, I’m Alexandra — a research-driven AI enthusiast with a background in Computer Engineering and Product Development, currently pursuing my MSc in Artificial Intelligence at the University of East London.
-
-I specialize in machine learning, deep learning, and intelligent systems, with a focus on applying AI to real-world challenges in healthcare, biomedical research, and space tech. With a unique mix of technical and creative skills, I bridge the worlds of data, design, and human-centered tech.
-
----
-
-🔍 **Interests & Research**  
-• Machine Learning & Deep Learning  
-• AI in Healthcare & Biomedical Research  
-• AI in Space & Intelligent Systems  
-• Time-Series Forecasting & Anomaly Detection  
-• UX/UI & AI-Powered Interfaces  
-
-💻 **Tech & Tools**  
-• Python (Pandas, NumPy, Scikit-Learn, Matplotlib)  
-• TensorFlow, PyTorch, PySpark, Apache Spark, SQL  
-• ML Techniques: SVM, LR, XGBoost, Random Forest, K-Means, PCA  
-• Currently diving into NLP, Forecasting & Anomaly Detection  
-
-🎨 **Creative Meets Tech**  
-• Built predictive models & big data pipelines  
-• Designed intuitive dashboards & monitoring tools  
-• Web/UI development with a UX focus  
-• Certified in React, JavaScript, ML & Design Fundamentals  
+### 💡 AI/ML • Data • Web & Product Development • UX/UI
+ 
+I’m a multidisciplinary technologist with an MSc in Artificial Intelligence with Distinction from the University of East London and a background in Computer Engineering, combining AI/ML, data, web development and product design.
+ 
+My experience spans machine learning and predictive modelling, large-scale data analysis, frontend and web development, UX/UI, analytics and intelligent systems. I enjoy working at the intersection of engineering, research and product, turning complex technical requirements and data into practical, intuitive solutions.
+ 
+My AI/ML work includes physiological time-series forecasting and monitoring, anomaly detection, classification, feature engineering and large-scale data processing, with research interests particularly in healthcare, biomedical applications, space/astronaut health and marine/environmental data.
+ 
+Alongside AI and data, I bring strong hands-on experience in web and product development, including React/Next.js, JavaScript, WordPress, REST APIs, responsive interfaces, dashboards, analytics integrations and UX/UI design.
+ 
+🔍 Focus & Research Interests
+ • Machine Learning & Deep Learning
+ • Time-Series Forecasting & Anomaly Detection
+ • AI in Healthcare, Biomedical & Space Research
+ • Big Data & Predictive Analytics
+ • Human-Centred AI & Intelligent Interfaces
+ 
+💻 Technical Stack
+ AI/Data: Python, SQL, Pandas, NumPy, Scikit-learn, PySpark, Apache Spark, TensorFlow, PyTorch, XGBoost
+ Web: JavaScript, React, Next.js, HTML/CSS, WordPress, REST APIs
+ Product & UX/UI: Figma, responsive design, prototyping, design systems, accessibility
+ Analytics: Power BI, GA4, data visualisation
+ 
+I’m particularly interested in opportunities where AI, engineering, data and product thinking intersect — from ML/AI engineering and data-driven research to intelligent digital products and user-facing technology.
 
 ---
 
